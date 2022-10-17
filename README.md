@@ -13,5 +13,5 @@ imposto e valor total do pagamento) e informar os dados na tela. Veja os
 exemplos.
 
 # Example
-<img src="imgs/example1" />
-<img src="imgs/example2" />
+<img src="imgs/example1.png" />
+<img src="imgs/example2.png" />
