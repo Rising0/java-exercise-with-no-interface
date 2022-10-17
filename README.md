@@ -1,0 +1,1 @@
+# java-exercise-with-no-interface
